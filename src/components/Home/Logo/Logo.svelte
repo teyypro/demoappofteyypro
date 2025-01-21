@@ -1,5 +1,5 @@
 
-<div ><img src = '/mid18ct/logo.svg' alt = 'logo'/>Mid18ct</div>
+<div ><img src = 'logo.svg' alt = 'logo'/>Mid18ct</div>
 
 <style>
     img{
